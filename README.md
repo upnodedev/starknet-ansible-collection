@@ -1,3 +1,3 @@
-# Ansible Collection - upnodedev.starknet
+# Upnode Starknet Ansible Collection
 
-Documentation for the collection.
+See pathfinder ansible deployment documentation at https://github.com/upnodedev/starknet-pathfinder-ansible
